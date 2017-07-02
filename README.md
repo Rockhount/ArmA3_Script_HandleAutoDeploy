@@ -1,4 +1,4 @@
-# ArmA 3 Script HandleAttachTo
+# ArmA 3 Script HandleAutoDeploy
 <p align="center">
   <img src="Screenshots/HandleAutoDeploy.jpg">
 </p>
